@@ -43,11 +43,11 @@ This is an example of a cmake project.
 
 Install git and other requirements on your computer.
 #### Ubuntu
-* update your apt
+* Update your apt
   ```sh
   sudo apt update && sudo apt upgrade -y
   ```
-* 
+* Install requirements
   ```sh
   sudo apt install build-essential
   sudo apt install git cmake gcc
@@ -66,7 +66,7 @@ Install git and other requirements on your computer.
    cmake ..
    make
    ```
-3. Run the execution file
+3. Run
    ```sh
    ./simple_example.exe
    ```
