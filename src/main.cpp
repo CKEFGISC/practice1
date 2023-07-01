@@ -14,5 +14,5 @@ int main() {
     std::cin >> b;
     std::cout << "a+b = " << add(a, b) << std::endl;
     std::cout << "execution finished\n";
-    std::cout << "---------------------------------\n"
+    std::cout << "---------------------------------\n";
 }
