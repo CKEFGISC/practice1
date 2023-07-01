@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aaron Wu - [@twitter_handle](https://twitter.com/twitter_handle) - aaronwu0218@gmail.com
+Aaron Wu - [@AaronWu-train](https://github.com/AaronWu-train) - aaronwu0218@gmail.com
 
 Project Link: [https://github.com/CKEFGISC/practice1](https://github.com/CKEFGISC/practice1)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
